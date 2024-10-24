@@ -11,6 +11,9 @@ cd Playwright-Bdd
 Step 3:Runt he commands below
 
 npm install
+
+
+
 npx playwright install
 
 Step 4: Run test
